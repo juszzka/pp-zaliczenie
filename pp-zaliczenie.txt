@@ -1,0 +1,11 @@
+imiê i nazwisko: Justyna Norbert
+tytu³: jestem nowym Billem Gates'em
+
+
+Program ma byæ prost¹ wersj¹ programu Paint. 
+Do rysowania do wyboru bêdzie kilka kolorów, 
+t³o bêdzie bia³e. 
+Po wciœniêciu kwadracika  z danym kolorem, 
+a nastêpnie w bia³e pole, poprzez ruchy 
+myszk¹ z wciœniêtym lewym przyciskiem
+powstanie linia w tym kolorze :-)
